@@ -1,0 +1,19 @@
+.Header {
+background-color: bisque;
+flex:1;
+   
+}
+.rowMenu{
+     flex: 1;
+   
+   /* background-color: red; */
+   
+   
+
+}
+.topContainer{
+  display: flex;
+  flex-direction: row;
+  text-decoration: none
+ 
+}
